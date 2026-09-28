@@ -2,7 +2,7 @@
 
 **Autor / Author:** Maciej Krakowski  
 **Platformy / Platforms:** Android (główna) · Windows (w budowie) · iOS (przyszła)
-**Wersja / Version:** `v2.4.1`
+**Wersja / Version:** `v2.4.2`
 
 
 # Thermo-Steam Calc & Tools
